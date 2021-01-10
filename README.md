@@ -1,2 +1,1 @@
-# archvirt
-# archvirt
+# instalação do archlinux no virt-manager
